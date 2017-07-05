@@ -6,6 +6,6 @@ Gem::Specification.new do |s|
   s.description = ""
   s.authors = ["Darren Burgess"]
   s.email = "darrentburgess@gmail.com"
-  s.files = ['lib/sluggable.rb']
-  s.homepage = 'git hub url'
+  s.files = ["lib/sluggable.rb"]
+  s.homepage = "https://github.com/darrenburgess/sluggable-dtb"
 end
